@@ -1,0 +1,27 @@
+.form {
+  border: 2px solid black;
+  width: 250px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.name,
+.number {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.button {
+  cursor: pointer;
+  width: 100px;
+}

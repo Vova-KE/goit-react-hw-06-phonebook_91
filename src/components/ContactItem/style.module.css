@@ -1,0 +1,8 @@
+.listItem {
+  margin-bottom: 10px;
+}
+
+.buttonDelete {
+  margin-left: 20px;
+  cursor: pointer;
+}
